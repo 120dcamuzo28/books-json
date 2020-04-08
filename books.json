@@ -1,0 +1,41 @@
+{
+  "books":
+  [
+	{
+		"title":"The Lighting Thief",
+		"author":"Rick Riordan",
+		"coverImage":"img/cover.jpg",
+		"summary":"Life of a boy, half human, half demigod.",
+		"reviews":
+			[
+			{"firstReview":"Great."},
+			{"secondReview":"Fantastic!"},
+			{"thirdReview":"An instant classic."}
+			]
+		},
+		{
+		"title":"Sea of Monsters",
+		"author":"Rick Riordan",
+		"coverImage":"img/cover.jpg",
+		"summary":"Life of a boy, half human, half demigod Part 2.",
+		"reviews":
+			[
+			{"firstReview":"I loved it."},
+			{"secondReview":"Super fun and intense."},
+			{"thirdReview":"Just great!"}
+			]
+		},
+		{
+		"title":"Titans Curse",
+		"author":"Rick Riordan",
+		"coverImage":"img/cover.jpg",
+		"summary":"Life of a boy, half human, half demigod. Part 3",
+		"reviews":
+			[
+			{"firstReview":"Not as good as the first two."},
+			{"secondReview":"Love this series!"},
+			{"thirdReview":"My personal favorite so far!"}
+			]
+		}
+	]
+}
